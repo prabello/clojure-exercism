@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="885112d6-d889-41f9-9c64-bf26c5a331e0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1QWKlTdtdPTeJp0jJki7Cq2dJeA" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project.clj" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReplState" timestamp="1567956662123">{:repl-history {:ide [], :local [{:command &quot;(to-rna a)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(use rna-transcription :reload)&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(load-file rna-transcription)&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(use rna-transcription)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(use 'rna-transcription)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(to-rna \&quot;a\&quot;)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;(to-rna \&quot;papa\&quot;)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(to-rna \&quot;C\&quot;)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;(to-rna \&quot;T\&quot;)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;(use 'rna-transcription :reload\n     )&quot;, :offset 38, :ns &quot;user&quot;} {:command &quot;(to-rna \&quot;G\&quot;)&quot;, :offset 12, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure Application.rna-transcription-test">
+    <configuration name="REPL for rna-transcription" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="rna-transcription" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rna-transcription-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="rna-transcription" />
+      <setting name="path" value="$PROJECT_DIR$/test/rna_transcription_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rna_transcription_test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="rna-transcription" />
+      <setting name="path" value="$PROJECT_DIR$/test/rna_transcription_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.rna-transcription-test" />
+        <item itemvalue="Clojure Application.rna_transcription_test" />
+        <item itemvalue="Clojure REPL.REPL for rna-transcription" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="885112d6-d889-41f9-9c64-bf26c5a331e0" name="Default Changelist" comment="" />
+      <created>1567881062453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567881062453</updated>
+    </task>
+    <servers />
+  </component>
+</project>

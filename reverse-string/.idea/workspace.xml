@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c14364a1-00df-498e-b2ed-fa7e9745c46d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1OnjGv5pCNbvy7C0z6U884KQW2J" />
+  <component name="ReplState" timestamp="1566423723770">{:repl-history {:ide [], :local [{:command &quot;(reverse-string \&quot;as\&quot;)&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(conj (reverse-string \&quot;abcd\&quot;))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(conj (reverse-string \&quot;abcd\&quot;) \&quot;f\&quot;)&quot;, :offset 34, :ns &quot;user&quot;} {:command &quot;(cond (reverse-string \&quot;abcd\&quot;) \&quot;f\&quot;)&quot;, :offset 34, :ns &quot;user&quot;} {:command &quot;(cons (reverse-string \&quot;abcd\&quot;) \&quot;f\&quot;)&quot;, :offset 34, :ns &quot;user&quot;} {:command &quot;(cons (reverse-string \&quot;abcd\&quot;) \&quot;fa\&quot;)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(conj (reverse-string \&quot;abcd\&quot;) \&quot;fa\&quot;)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(map conj (reverse-string \&quot;abcd\&quot;))&quot;, :offset 34, :ns &quot;user&quot;} {:command &quot;(map conj (reverse-string \&quot;abcd\&quot;) conj)&quot;, :offset 39, :ns &quot;user&quot;} {:command &quot;(apply str (into () \&quot;abacate\&quot;))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;((into () \&quot;abacate\&quot;))&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(into () \&quot;banana\&quot;)&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(into () (reverse-string \&quot;abfg\&quot;))&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;#(str %2 %1)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;(#(str %2 %1) \&quot;abacate\&quot;)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(reduce #(str %2 %1) \&quot;\&quot; \&quot;abacate\&quot;)&quot;, :offset 34, :ns &quot;user&quot;} {:command &quot;(reduce (fn [a b] (str b a)) \&quot;pew\&quot; \&quot;banana\&quot;)&quot;, :offset 44, :ns &quot;user&quot;} {:command &quot;(reduce (fn [a b] (str b a)) \&quot;\&quot; \&quot;banana\&quot;)&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(map (fn [a b] (str a b) \&quot;banana\&quot;))&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(map (fn [a b] (str a) \&quot;banana\&quot;))&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(map (fn [a] a \&quot;banana\&quot;))&quot;, :offset 25, :ns &quot;user&quot;} {:command &quot;(map (fn [a] (a) \&quot;banana\&quot;))&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(map (fn [a] (str a) \&quot;banana\&quot;))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(map (fn [a] \&quot;a\&quot; \&quot;banana\&quot;))&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(map (fn [a]) \&quot;banana\&quot;)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(map (fn [a b] (str a b)) \&quot;banana\&quot;)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(map (fn [a] (a)) \&quot;banana\&quot;)&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(map (fn [a] a) \&quot;banana\&quot;)&quot;, :offset 25, :ns &quot;user&quot;} {:command &quot;(map (fn [a b] b) \&quot;banana\&quot;)&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(reduce (fn [k v] (str v k)) \&quot;pew\&quot; \&quot;banana\&quot;)&quot;, :offset 44, :ns &quot;user&quot;} {:command &quot;(reduce (fn [k v] (str v k)) \&quot;\&quot; \&quot;banana\&quot;)&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(reduce (fn [k v] (str v k)) \&quot;banana\&quot;)&quot;, :offset 38, :ns &quot;user&quot;} {:command &quot;(reduce (fn [k v] (str v k)) (str/split \&quot;banana\&quot; #\&quot;\&quot;))&quot;, :offset 54, :ns &quot;user&quot;} {:command &quot;(use reverse-string :reload)&quot;, :offset 28, :ns &quot;user&quot;} {:command &quot;(reverse-string)&quot;, :offset 15} {:command &quot;(use 'reverse-string :reload)&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(reverse-string \&quot;karai\&quot;)&quot;, :offset 24, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="REPL for reverse-string" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="reverse-string" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure REPL.REPL for reverse-string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c14364a1-00df-498e-b2ed-fa7e9745c46d" name="Default Changelist" comment="" />
+      <created>1564620162087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564620162087</updated>
+    </task>
+    <servers />
+  </component>
+</project>

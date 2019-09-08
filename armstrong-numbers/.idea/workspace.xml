@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a274f813-63d7-4721-a010-25dd779f5832" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1OmqPULYKkCn6qy9Z2ecdPTkP5D" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="ReplState" timestamp="1564619362951">{:repl-history {:ide [], :local [{:command &quot;(+ 1 1\n   )&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(defn split-digits [num]\n  (map read-string (str/split (str num) #\&quot;\&quot;)))&quot;, :offset 71, :ns &quot;armstrong-numbers&quot;} {:command &quot;(ns armstrong-numbers\n  (:require [clojure.string :as str]))\n\n(defn split-digits [num]\n  (map read-string (str/split (str num) #\&quot;\&quot;)))\n&quot;, :offset 134, :ns &quot;user&quot;} {:command &quot;(split-digits 123\n              )&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(use armstrong-numbers)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(use armstrong-numbers :reload\n     )&quot;, :offset 37, :ns &quot;user&quot;} {:command &quot;(split-digits 123)&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(exp 1 2)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(exp 3 3)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(exp 3 2)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(repeat 3 2)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;(armstrong? 123)&quot;, :offset 16, :ns &quot;user&quot;} {:command &quot;(armstrong? 512)&quot;, :offset 16, :ns &quot;user&quot;} {:command &quot;(use 'armstrong-numbers :reload)&quot;, :offset 32, :ns &quot;user&quot;} {:command &quot;(armstrong? 153)&quot;, :offset 16, :ns &quot;user&quot;} {:command &quot;(armstrong? 154)&quot;, :offset 16, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="REPL for armstrong-numbers" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="armstrong-numbers" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure REPL.REPL for armstrong-numbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a274f813-63d7-4721-a010-25dd779f5832" name="Default Changelist" comment="" />
+      <created>1564593095498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564593095498</updated>
+    </task>
+    <servers />
+  </component>
+</project>

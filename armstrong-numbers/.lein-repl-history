@@ -1,0 +1,87 @@
+(defn digits
+  [n]
+  (map #(- (int %) (int \0))
+       (str n)))
+(digits 2)
+(digits 33)
+(digits 783)
+(str 1)
+(digits 1)
+(digits 0)
+(defn split-digits [n]
+  (map #(- (int %) (int \0))))))
+  (map #(- (int %) (int \0)))))
+  (map #(- (int %) (int \0))))
+(defn split-digits [n]
+  (map #(- (int %) (int \0))))
+split-digits 
+(split-digits 1)
+(split-digits 2)
+(split-digits 3)
+(defn sample [n] (map #())(str n))
+(sample 123)
+(sample 1)
+(digits 123)
+(digits 1)
+(digits 43111)
+(map #(- (int %) (int \0)))
+(defn split-digits [n]
+  (map #(- (int %) (int \0))))
+(split-digits 123_
+)
+(split-digits 123)
+(str (split-digits 1234))
+(ns armstrong-numbers)
+(defn armstrong? [num]                                      ;; <- arglist goes here
+  ;; your code goes here
+  (def length (count-digits num))
+  (println num)
+  (println length)
+  )
+(defn count-digits [num]
+  4
+  )
+(println armstrong? 123)
+(defn count-digits [num]
+  4
+  )
+(defn armstrong? [num]                                      ;; <- arglist goes here
+  ;; your code goes here
+  (def length (count-digits num))
+  (println num)
+  (println length)
+  )
+(ns armstrong-numbers
+  (:require [clojure.string :as str]))
+(defn split-digits [num]
+  (str/split (str num) #"")
+  )
+(split-digits 123)
+(ns armstrong-numbers
+  (:require [clojure.string :as str])
+  (:import 'java.lang.Integer))
+(defn split-digits [num]
+  (map (Integer/parseInt (str/split (str num) #""))
+)
+))
+(ns armstrong-numbers
+  (:require [clojure.string :as str])
+  (:import 'java.lang.Integer))
+(defn split-digits [num]
+  (map (Integer/parseInt (str/split (str num) #""))))
+(split-digits 123)
+(ns armstrong-numbers
+  (:require [clojure.string :as str])
+  (:import 'java.lang.Integer))
+(defn split-digits [num]
+  (map (fn [n] (Integer/parseInt n) (str/split (str num) #""))))
+(split-digits 123)
+(read-string 123)
+(read-string "123")
+(ns armstrong-numbers
+  (:require [clojure.string :as str])
+  (:import java.lang.Integer))
+(defn split-digits [num]
+  (map read-string (str/split (str num) #"")))
+(split-digits 123)
+exit
